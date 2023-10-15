@@ -3,10 +3,10 @@
 ![social-banner-small](https://github.com/quack-ai/.github/assets/26927750/0786ea77-50d6-4076-93f2-74759549ef53)
 
 
-Quack AI helps large software companies run like the most efficient open-source projects. We do this in the code editor by guiding developers through the best steps to make a smooth contribution, regardless of the team they're from.
+Quack AI tackles the slowdown in project delivery often faced by expanding software teams, using proven techniques from open-source. With our IDE extension and observability platform, we enable managers to spot and amend workflow issues, refining the real-time guidance provided to developers.
 
 Get started with:
-- ✏️ our [platform](https://app.quack-ai.com/) for maintainers
+- ✏️ our [platform](https://app.quack-ai.com/) for maintainers & engineering managers
 - ⌨️ our open-source [VSCode extension](https://marketplace.visualstudio.com/items?itemName=QuackAI.quack-companion) for contributors
 
 ## Stay connected
