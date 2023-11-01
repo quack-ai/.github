@@ -6,7 +6,7 @@
 Quack AI tackles the slowdown in project delivery often faced by expanding software teams, using proven techniques from open-source. With our IDE extension and observability platform, we enable managers to spot and amend workflow issues, refining the real-time guidance provided to developers.
 
 Get started with:
-- ✏️ our [platform](https://app.quack-ai.com/) for maintainers & engineering managers
+- ✏️ our [platform](https://app.quackai.com/) for maintainers & engineering managers
 - ⌨️ our open-source [VSCode extension](https://marketplace.visualstudio.com/items?itemName=QuackAI.quack-companion) for contributors
 
 ## Stay connected
@@ -17,4 +17,4 @@ Connect with our community on:
 
 🐦 [Twitter](https://twitter.com/quack_ai)
 
-🦆 [Website](https://www.quack-ai.com/)
+🦆 [Website](https://www.quackai.com/)
