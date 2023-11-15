@@ -1,5 +1,3 @@
-# Nice of you to drop by :wave:
-
 ![social-banner-small](https://github.com/quack-ai/.github/assets/26927750/68796db8-9249-4318-b47b-438501b730ae)
 
 
