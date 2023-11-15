@@ -1,6 +1,6 @@
 # Nice of you to drop by :wave:
 
-![social-banner-small](https://github.com/quack-ai/.github/assets/26927750/0786ea77-50d6-4076-93f2-74759549ef53)
+![social-banner-small](https://github.com/quack-ai/.github/assets/26927750/68796db8-9249-4318-b47b-438501b730ae)
 
 
 Quack AI tackles the slowdown in project delivery often faced by expanding software teams, using proven techniques from open-source. With our IDE extension and observability platform, we enable managers to spot and amend workflow issues, refining the real-time guidance provided to developers.
