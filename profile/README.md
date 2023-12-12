@@ -1,7 +1,7 @@
 ![social-banner-small](https://github.com/quack-ai/.github/assets/26927750/68796db8-9249-4318-b47b-438501b730ae)
 
 
-Quack AI tackles the slowdown in project delivery often faced by expanding software teams, using proven techniques from open-source. With our IDE extension and observability platform, we enable managers to spot and amend workflow issues, refining the real-time guidance provided to developers.
+Quack brings software teams into sync, effortlessly aligning code with project expectations. Take the example of the backend team revising function naming conventions for enhanced descriptiveness. Our deep learning model swiftly interprets these updates and embeds them into every developer's keystroke with our VSCode extension, significantly reducing code review iterations and shaping a cohesive & adaptable coding identity.
 
 Get started with:
 - ✏️ our [platform](https://app.quackai.com/) for maintainers & engineering managers
