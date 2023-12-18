@@ -4,6 +4,7 @@
 Quack brings software teams into sync, effortlessly aligning code with project expectations. Take the example of the backend team revising function naming conventions for enhanced descriptiveness. Our deep learning model swiftly interprets these updates and embeds them into every developer's keystroke with our VSCode extension, significantly reducing code review iterations and shaping a cohesive & adaptable coding identity.
 
 Get started with:
+- 📖 our [documentation](https://docs.quackai.com)
 - ✏️ our [platform](https://app.quackai.com/) for maintainers & engineering managers
 - ⌨️ our open-source [VSCode extension](https://marketplace.visualstudio.com/items?itemName=QuackAI.quack-companion) for contributors
 
